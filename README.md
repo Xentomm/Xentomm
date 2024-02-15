@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PyTorch, PyQt5, More advanced Deep Learning Networks**
 
-- ⚡ Fun fact **I worked on Federated Learning Project, that was hard**
+- ⚡ Fun fact **I worked on Federated Learning Project**, that was painful...
 
 <div style="margin-bottom: 20px;">
   <h4>Languages:</h4>
