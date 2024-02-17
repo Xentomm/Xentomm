@@ -38,4 +38,3 @@
 
 <br>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xentomm&" alt="xentomm" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xentomm&label=Profile%20views&color=0e75b6&style=flat" alt="xentomm" /> </p>
