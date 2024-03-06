@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PyTorch, PyQt5, More advanced Deep Learning Networks**
   
-- 🌱 Learning second language **Java**
+- 🌱 Learning another language --> **Java**
 
 - ⚡ Fun fact **I worked on [Federated Learning](https://github.com/Xentomm/Base-Models-and-Domain-Adaptation-for-Federated-Learning) Project**, that was painful...
   
