@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I worked on [Federated Learning](https://github.com/Xentomm/Base-Models-and-Domain-Adaptation-for-Federated-Learning) Project**, that was painful...
   
-- 🔭 Coding daily even one line, maybe the drop will become a river
 
 <div style="margin-bottom: 20px;">
   <h4>Languages:</h4>
@@ -42,4 +41,4 @@
 </div>
 
 <br>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xentomm&" alt="xentomm" /></p>
+<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xentomm&" alt="xentomm" /></p> -->
